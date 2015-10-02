@@ -15,3 +15,7 @@ Omana tavoitteena on luoda [sanapeli] (http://www.wordgames.com/word-search/), j
 ####Ohjelmia joita käytetään peliä tehdessä:
 
 Construct 2, Photoshop
+
+####Tietokanta:
+
+Pisteiden tulokset tallennetaan MySQL-tietokantaan. Tietokantaa pystyy lukemaan ja käsittelemään PHP-ohjelmointikielellä.
