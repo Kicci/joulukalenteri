@@ -2,11 +2,15 @@
 
 ####Yleistavoite: 
 
-Tarkoituksena olisi tehdä vanhuksille joulukalenteri, joka sisältäisi erilaisia pelejä, musiikkeja ja kuvia. Niiden avulla olisi saada vanhuksille omanlaista ajanvietettä, joka auttaisi heitä ja heidän kykyjänsä muistelemisessa, kuin myös koordinoimaan peleissä. Joulukalenteri tullaan suunnittelemaan ainakin tableteille. Pelit tullaan toteuttamaan Construct 2 -pelinkehitystyökalua käyttäen.
+Tarkoituksena olisi tehdä vanhuksille joulukalenteri, joka sisältäisi erilaisia pelejä, musiikkeja ja kuvia. Niiden avulla olisi saada vanhuksille omanlaista ajanvietettä, joka auttaisi heitä ja heidän kykyjänsä muistelemisessa, kuin myös koordinoimaan peleissä. 
 
 ####Kohdeyleisö:
 
 Kohdeyleisönä ovat yli 80-vuotiaat, osittain jo dementoituneet hoitokodin asukkaat.
+
+####Laitteet/alustat joihin peli tehdään:
+
+Tableteille erityisesti, mutta saatetaan myös tehdä älypuhelimille.
 
 ####Oma tavoite:
 
